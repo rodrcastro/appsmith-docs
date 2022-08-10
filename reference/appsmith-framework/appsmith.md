@@ -6,6 +6,8 @@ description: >-
 
 # Appsmith Context Object
 
+Another change made by Rodrigo
+
 The Appsmith context object provides information around the current state of the application
 
 {% embed url="https://youtu.be/5Z65l_PssEQ" %}
