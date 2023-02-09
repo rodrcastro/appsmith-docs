@@ -49,6 +49,7 @@
   * [Upgrade to Business Edition](getting-started/setup/upgrade-to-business-edition/README.md)
     * [Docker](getting-started/setup/upgrade-to-business-edition/docker.md)
 * [FAQ](getting-started/faq.md)
+* [Test page for Addison](getting-started/test-page-for-addison.md)
 
 ## Core Concepts
 
