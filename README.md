@@ -31,6 +31,12 @@ You can build anything from simple CRUD apps to complicated multi-step workflows
 
 This is a change Rodrigo did after the fact.
 
+Changing the Arcade embed to the integration
+
+
+
+{% embed url="https://app.arcade.software/share/fUNrK6z2eurJ2C1ty2OG" %}
+
 **Got 2 minutes?** Here's a video overview of Appsmith:
 
 {% embed url="https://youtu.be/Dxe_NzdGzL4" %}
