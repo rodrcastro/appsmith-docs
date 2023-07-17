@@ -89,7 +89,7 @@
 ## Reference
 
 * [Widgets](reference/widgets/README.md)
-  * [Audio](reference/widgets/audio.md)
+  *
   * [Audio Recorder](reference/widgets/audio-recorder.md)
   * [Button](reference/widgets/button/README.md)
     * [Re-Captcha](reference/widgets/button/google-recaptcha.md)

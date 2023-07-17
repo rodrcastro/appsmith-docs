@@ -18,6 +18,8 @@ Build **CRUD** apps, **Dashboards**, **Admin Panels**, **Dynamic Forms**, and mu
 
 Making a quick change from Git directly
 
+Let's make another change from GitBook
+
 ## How Appsmith Works
 
 * **Connect Datasource**: Integrate with a datasource such as a database or an API. Appsmith has plug-and-play support for many databases and the RESTful API interface to connect with most tools seamlessly.
