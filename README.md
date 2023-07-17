@@ -33,9 +33,9 @@ This is a change Rodrigo did after the fact.
 
 Changing the Arcade embed to the integration
 
+Let's try adding the embed with the syntax she was using
 
-
-{% embed url="https://app.arcade.software/share/fUNrK6z2eurJ2C1ty2OG" %}
+{% @arcade/embed flowId="fUNrK6z2eurJ2C1ty2OG" url="https://app.arcade.software/share/fUNrK6z2eurJ2C1ty2OG" %}
 
 **Got 2 minutes?** Here's a video overview of Appsmith:
 
