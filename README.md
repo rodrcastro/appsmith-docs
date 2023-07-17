@@ -16,6 +16,8 @@ Taking this opportunity to also test out embeds and something for another custom
 Build **CRUD** apps, **Dashboards**, **Admin Panels**, **Dynamic Forms**, and much more **10x faster**.
 {% endhint %}
 
+Making a quick change from Git directly
+
 ## How Appsmith Works
 
 * **Connect Datasource**: Integrate with a datasource such as a database or an API. Appsmith has plug-and-play support for many databases and the RESTful API interface to connect with most tools seamlessly.
