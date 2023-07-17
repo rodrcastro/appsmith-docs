@@ -8,6 +8,10 @@ You can drag and drop pre-built widgets to build UI on a grid-style canvas. Apps
 
 making a change
 
+Taking this opportunity to also test out embeds and something for another customer
+
+{% embed url="https://app.arcade.software/share/fUNrK6z2eurJ2C1ty2OG" %}
+
 {% hint style="info" %}
 Build **CRUD** apps, **Dashboards**, **Admin Panels**, **Dynamic Forms**, and much more **10x faster**.
 {% endhint %}
